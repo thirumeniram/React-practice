@@ -22,6 +22,7 @@ function App() {
 //   const current_type = e.target.value;
 //   if (current_type === "rgb") {
 //     const cur_color = `rgb(${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)})`;
+//to be repeated part
 //     setColor(cur_color);
 //     setColorType("RGB");
 //   } else if (current_type === "hex") {
